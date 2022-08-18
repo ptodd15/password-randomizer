@@ -1,11 +1,4 @@
-## Suggestions for a good README
-
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
 ## Password Randomizer-Project 3
-
-Choose a self-explaining name for your project.
-
 ## Description
 
 ```
@@ -40,11 +33,15 @@ Program takes selections and randomizes a password containing all user selection
 
 ## Authors and acknowledgment
 
-Joshua Bohde-Instructor
-W3 Schools
-MDN Web Docs
+Joshua Bohde-Instructor;
+W3 Schools;
+MDN Web Docs;
 [Tony Teaches Tech Refresher on prompts and confirms and looping with them](https://www.youtube.com/watch?v=bNtyTGBtbK4)
 
 ## Project status
 
 Complete.
+
+## Links
+[Repo Link](https://github.com/ptodd15/password-randomizer);
+[Website Link](https://ptodd15.github.io/password-randomizer/)
